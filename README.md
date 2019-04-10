@@ -12,7 +12,7 @@ record my git-learning experimence
 >  以后推送:git push origin master
 
 2. 从远程库克隆
-
+> git clone git@github.com:programbegin/LearnGit.git
 ## 分支管理
 1. 创建与合并分支
     
